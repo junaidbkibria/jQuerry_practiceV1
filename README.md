@@ -1,2 +1,3 @@
-# jQuerry_practiceV1
+# jQuerry_practiceV2
 use of jquery
+https://junaidbkibria.github.io/jQuerry_practiceV1/
