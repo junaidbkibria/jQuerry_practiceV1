@@ -1,0 +1,29 @@
+.allButtons{
+    margin: 0 auto;
+    background: palegoldenrod;
+    height: 150px;
+    button{
+        width: 150px;
+        height: 50px;
+        background: steelblue;
+    }
+}
+.items{
+    background: rgb(166, 207, 15);
+    p{
+        font-size: 30px;
+    }
+}
+.important{
+    font-weight: 900;
+    font-size: xx-large;
+    letter-spacing: 1.5rem;
+}
+.blue{
+    color: blue;
+}
+ol{
+    li{
+        font-size: 45px;
+    }
+}
